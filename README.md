@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @dev-pegorino
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-dev-pegorino/dev-pegorino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Привет, меня зовут Мингалеев Ильназ
+
+### 👨‍💻 Обо мне: 
+Я разработчик с трехлетним опытом работы! За это время я освоил множество языков программирования, включая:
+
+- 🐍 Python
+- 🌐 JavaScript
+- 📜 TypeScript
+- 🐘 PHP
+- ☕ Java
+- 🦸‍♂️ Kotlin
+- 💻 C#
+- ⚙️ C++
+- 🎮 Pawn
+
+Начинаю изучать язык программирования под названием: Lua
+
+Занимаюсь разработкой веб-сайтов, чат-ботов(telegram, discord и ВКонтакте), мобильные приложение под Android и игровые моды, клиенты, лаунчеры для игр с тематикой SAMP/CRMP
+
+## Социальные сети:
+
+## Технологии:
+
+## Инструменты:
